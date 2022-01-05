@@ -1,6 +1,6 @@
 # API de empréstimo (desafio TQI)
 
-Eu escolhi fazer uma API Spring Boot pelo que foi visto no bootcamp e pela familiaridade com o Java, também é fermenta muito utilizada hoje no mercado e junto com o Gradle facilita as dependências utilizadas. Utilizei o Docker, também visto no bootcamp, para utilizar o banco de dados e facilitar as configurações e utilizei a ferramenta do Postman para fazer todas as requisições e autenticações.
+Eu escolhi fazer uma API Spring Boot pelo que foi visto no bootcamp e pela familiaridade com o Java, também é fermenta muito utilizada hoje no mercado e junto com o Gradle facilita as dependências utilizadas. Utilizei o Docker, também visto no bootcamp, para utilizar o banco de dados e facilitar as configurações, e por fim utilizei a ferramenta do Postman para fazer todas as requisições e autenticações.
 
 Essa API possui uma autenticação por Spring Security que será realizada no login por e-mail e senha, e as senhas serão criptografadas.
 
