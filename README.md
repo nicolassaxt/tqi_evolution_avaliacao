@@ -4,7 +4,7 @@ Eu escolhi fazer uma API Spring Boot pelo que foi visto no bootcamp e pela famil
 
 Essa API possui uma autenticação por Spring Security que será realizada no login por e-mail e senha, e as senhas serão criptografadas.
 
-Ela foi criada pra ter dois tipos de usuários(Admin e User) é possível criar os dois tipos no cadastro. Os usuários são limitados a para fazer solicitação de empréstimos, listar empréstimos e detalhes do empréstimo, já o Admin tem liberdade para todas as funcionalidades. 
+Ela foi criada pra ter dois tipos de usuários(Admin e User), é possível criar os dois tipos no cadastro. Os usuários são limitados a para fazer solicitação de empréstimos, listar empréstimos e detalhes do empréstimo, já o Admin tem liberdade para todas as funcionalidades. 
 
 Eu criei uma autenticação Admin em memoria para TQI:
 
