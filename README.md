@@ -36,6 +36,7 @@ senha: admin
 
 - Spring Security
 
+- Mysql Connector
   
 
 ## DataBase
